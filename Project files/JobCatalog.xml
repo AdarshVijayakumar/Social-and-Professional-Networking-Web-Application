@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JobCatalog>
+    <Job category="Internship" id="1" >
+        <companyname>BMO Harris Bank</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Software Developer Intern</jobposition>
+		<jobdescription>Work closely with our senior management on marketing, operations, research and analytical projects. Review and test our product, including mobile applications and back-end tools</jobdescription>
+		<salary>30000</salary>
+		<state>Arizona</state>
+    </Job> 
+	<Job category="Internship" id="2" >
+        
+        <companyname>Okta</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Sales Internship</jobposition>
+		<jobdescription>Work to ensure data quality and present results to team leaders and stakeholders. Other projects as needed.</jobdescription>
+		<salary>85000</salary>
+		<state>Indiana</state>
+	   
+    </Job> 
+	<Job category="Internship" id="3" >
+        
+		<companyname>Northwestern Medicine</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>IT Undergraduate Internship </jobposition>
+		<jobdescription>Develop a working knowledge of hospital operations to a degree that allows for the successful completion of projects supporting a variety of hospital operations.</jobdescription>
+		<salary>20000</salary>
+		<state>Minnesota</state>
+	   
+    </Job> 
+	<Job category="Internship" id="4" >
+        
+		<companyname>BlueGrace Logistics</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Sales Intern</jobposition>
+		<jobdescription>Generate carrier capacity for targeted lanes from BG’s internally built database, as well as other outside sources the Carrier Rep has access to. Resolve carrier conflict, which include negotiating accessorials that occur in-transit.</jobdescription>
+		<salary>27000</salary>
+		<state>Nebraska</state>
+	   
+    </Job> 
+	
+
+	
+	
+	
+	 <Job category="Internship" id="5" >
+        
+		<companyname>Motorola Solutions</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>IT Data Analyst</jobposition>
+		<jobdescription>Develop and distribute actionable, value-add reports supporting the Planning (Demand, Inventory and Lifecycle Mgt) Organization. Consolidate and analyze actual operating results for the Planning organization throughout the summer and compare to monthly / quarterly plan.</jobdescription>
+		<salary>50000</salary>
+		<state>Colorado</state>
+	   
+    </Job>
+	<Job category="Internship" id="6" >
+        
+		<companyname>Uline</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Sales Internship</jobposition>
+		<jobdescription>Perform weekly "real world" sales calls during the summer. Offer product solutions to large and small companies using our 36,000+ item catalog.</jobdescription>
+		<salary>30000</salary>
+		<state>Indiana</state>
+	   
+    </Job> 
+	<Job category="Internship" id="7" >
+        
+		<companyname>Bloomberg</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Data Analyst Summer Internship</jobposition>
+		<jobdescription>Gain hands-on exposure to our systems, processes, clients and the financial markets. Carry-out real projects that have an exponential impact on our systems and clients.</jobdescription>
+		<salary>55000</salary>
+		<state>Indiana</state>
+	   
+    </Job> 
+	<Job category="Internship" id="8" >
+        
+     <companyname>Randa Accessories</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>IT Analyst Intern</jobposition>
+		<jobdescription>Understand business and system processes. Analyze different business metrics. Create both user, work flow, and technical documentation.</jobdescription>
+		<salary>35000</salary>
+		<state>Arizona</state>
+	   
+	</Job>
+	
+		<Job category="Internship" id="9" >
+        
+     <companyname>Paylocity</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Data Scientist Intern</jobposition>
+		<jobdescription>Collaborate with Product Owners, Sales Leaders, Enterprise Architects and other executives to translate complex human capital management challenges into data science projects</jobdescription>
+		<salary>45000</salary>
+		<state>Arizona</state>
+	   
+	</Job>
+	
+	
+	<Job category="Internship" id="10" >
+        
+     <companyname>Elkay Manufacturing</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>IT Analytics Intern</jobposition>
+		<jobdescription>Assist the team with various projects to support Elkay’s IT data team. Learn how to use various analytics technologies (Tableau, Oracle Analytics Cloud) and techniques to solve real-world business problems.</jobdescription>
+		<salary>55000</salary>
+		<state>Minnesota</state>
+	   
+	</Job>
+	
+	
+
+	
+	
+	
+	<Job category="EntryLevel" id="11" >
+        
+		<companyname>AMGTech Solutions</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Entry Level Software Engineer </jobposition>
+		<jobdescription>Involve in analysis, design, implementation and testing phases of Software Development Life Cycle (SDLC) and used agile methodology for developing application. Develop web applications and implementing Model View Control (MVC) architecture using server-side applications.</jobdescription>
+		<salary>55000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="12" >
+        
+     <companyname>BACloudSystems</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Entry Level Software Developer</jobposition>
+		<jobdescription>Participate in design, development, coding, testing, debugging, and deploying of software code for business applications. Modify and enhance existing applications.</jobdescription>
+		<salary>60000</salary>
+		<state>Minnesota</state>
+	   
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="13" >
+        
+    <companyname>NetCloudTek</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Entry Level Software developer</jobposition>
+		<jobdescription>Communicate with internal/external customers during analysis and development phase. Create build scripts for deployment to test and production servers. </jobdescription>
+		<salary>54000</salary>
+		<state>Indiana</state>
+	   
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="14" >
+        
+     <companyname>Specialty Print Communications</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>ENTRY LEVEL Systems Administrator</jobposition>
+		<jobdescription>Provide level I and II technical support. Document the design, operation, network diagram and troubleshooting steps for technology platforms and procedures.</jobdescription>
+		<salary>20000</salary>
+		<state>Arizona</state>	
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="15" >
+        
+      <companyname>PayLease, LLC</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Entry Level - Quality Control Analyst</jobposition>
+		<jobdescription>Thoroughly and efficiently review utility charge calculations for accuracy and variances. Ensure that new clients are configured properly and are compliant with all known regulatory frameworks.</jobdescription>
+		<salary>15000</salary>
+		<state>Minnesota</state>
+	   
+	</Job>
+	
+	
+	
+	<Job category="EntryLevel" id="16" >
+        
+     <companyname>Enterprise Peak</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Research Analyst - Entry-Level</jobposition>
+		<jobdescription>The Research Analyst will join our data services team and will be responsible for mapping out high-tech labor markets to support Principals and Senior delivery staff in running searches to collect labor data.</jobdescription>
+		<salary>45000</salary>
+		<state>Indiana</state>
+	   
+	</Job>
+	
+	
+	
+	<Job category="EntryLevel" id="17" >
+        
+     <companyname>Arrive Logistics</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Sales Development Program</jobposition>
+		<jobdescription>Provide top-notch customer service through consistent tracking and updates. We treat our customers’ freight like it’s our own. Communicate externally with your customers and represent the Arrive brand through transparent and professional communication via phone and email.</jobdescription>
+		<salary>20000</salary>
+		<state>Nebraska</state>
+	   
+	</Job>
+	
+	
+	
+	<Job category="EntryLevel" id="18" >
+        
+      <companyname>Enterprise Peak</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Client Analyst </jobposition>
+		<jobdescription>The Client Analyst will support key strategic processes on our talent delivery team, including: business technology requirements gathering, identifying the scope for each project, conducting research, and writing proposals to our customers.</jobdescription>
+		<salary>40000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="19" >
+        
+     <companyname>Infinity Consulting Partners</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Business Systems Analyst</jobposition>
+		<jobdescription>Need an entry level Systems Analyst for a contract role. You will be responsible for 1) Requirement Gathering 2) Data Analysis 3) Testing</jobdescription>
+		<salary>70000</salary>
+		<state>Arizona</state>
+	   
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="20" >
+        
+     <companyname>Total Quality Logistics (TQL)</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Sales Representative Entry Level</jobposition>
+		<jobdescription>Be able to make a sales pitch to people who have freight to ship. Be honest and proactive in your communication to customers and carriers. </jobdescription>
+		<salary>15000</salary>
+		<state>Arizona</state>
+	   
+	</Job> 
+	
+
+	
+	<Job category="Associate" id="21" >
+        
+     <companyname>SOS International LLC</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Escort-Laborer</jobposition>
+		<jobdescription>SOS International LLC (SOSi) is seeking an Escort (TS/SCI) to perform facility escort duties for secure facilities.  General laborer duties will be assigned when facility escort duties are not needed</jobdescription>
+		<salary>35000</salary>
+		<state>Indiana</state>
+	   
+	</Job>
+	
+	
+	<Job category="Associate" id="22" >
+        
+     <companyname>Sarisa Freight Solutions</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Carrier Sales Representative</jobposition>
+		<jobdescription>Build new leads and carrier partnerships outside of the load board in order grow your book of business. Continuously track and monitor loads; provide quick response time to urgent issues.</jobdescription>
+		<salary>30000</salary>
+		<state>Minnesota</state>
+	   
+	</Job>
+	
+		<Job category="Associate" id="23" >
+        
+     <companyname>Citizens Bank</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Data Scientist</jobposition>
+		<jobdescription>Investigating/mining
+		new data streams to assess utility and ability to connect to existing environment. Maintaining and
+		executing programs to merge/assemble data for analytic uses </jobdescription>
+		<salary>70000</salary>
+		<state>Nebraska</state>
+	   
+	</Job>
+	
+		<Job category="Associate" id="24" >
+        
+     <companyname>CliftonLarsonAllen</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Data Scientist</jobposition>
+		<jobdescription>Collect and analyze data using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. Assess the effectiveness and accuracy of new data sources and data gathering techniques.</jobdescription>
+		<salary>55000</salary>
+		<state>Indiana</state>
+	   
+	</Job>
+	
+	
+		<Job category="Associate" id="25" >
+        
+     <companyname>Milliman</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Software Engineer</jobposition>
+		<jobdescription>Develop an outline and proposed solutions for addressing a business problem. Develop technical documentation. </jobdescription>
+		<salary>45000</salary>
+		<state>Arizona</state>
+	   
+	</Job>
+	
+	
+		<Job category="Associate" id="26" >
+        
+      <companyname>Echo Global Logistics</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>TL Solutions Analyst</jobposition>
+		<jobdescription>The analyst supports the Contractual Sourcing Group, which procures truckload capacity at higher volumes than day-to-day spot market activity, in particular procured via Echo-issued RFPs to Truckload carriers. </jobdescription>
+		<salary>30000</salary>
+		<state>Nebraska</state>
+	   
+	</Job>
+	
+	
+		<Job category="Associate" id="27" >
+        
+     <companyname>Tractor Supply Company</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Marketing Data Science Analyst</jobposition>
+		<jobdescription>Build and automate data sets of all levels of complexity and size and sourced from multiple disparate systems to support the development of advanced analytics, statistical models, marketing campaign creation and measurement, and dashboard reporting. </jobdescription>
+		<salary>57000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+		<Job category="Associate" id="28" >
+        
+     <companyname>Citadel</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Marketing Data Analyst </jobposition>
+		<jobdescription>Collaborate with Marketing, Sales, Product teams and other Citadel business leaders to determine and prioritize needs for customer data. Develop Use Cases – partner with the business to capture and document Business Requirements, Business Definitions, Data Definitions, Visual Requirements, and Test Scripts. </jobdescription>
+		<salary>78000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+		<Job category="Associate" id="29" >
+        
+      <companyname>Valassis</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Data Scientist</jobposition>
+		<jobdescription>Using geo location data to track foot traffic, commercial visitation and next most likely visit to understand consumer physical behavior. Using online behavior data to determine the primary interest categories of consumers and the web properties they visit. </jobdescription>
+		<salary>60000</salary>
+		<state>Nebraska</state>
+	   
+	</Job>
+	
+	
+	<Job category="Associate" id="30" >
+        
+     <companyname>BlueCrew</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Sales Development</jobposition>
+		<jobdescription>Knowledgeable on all aspects of BlueCrew technology, operations, and pricing models</jobdescription>
+		<salary>78000</salary>
+		<state>Arizona</state>
+	   
+	</Job>
+
+	
+	
+	<Job category="Senior" id="31" >
+        
+     <companyname>Wells Fargo</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Database Analyst 6</jobposition>
+		<jobdescription>Provide technical leadership for the operational management of Audit, Risk and Access management functions across 25 + supported applications. Provide support for technical issues and initiatives related to applications, systems, databases and reporting capabilities. </jobdescription>
+		<salary>70000</salary>
+		<state>Arizona</state>
+	   
+	</Job>
+	
+		<Job category="Senior" id="32" >
+        
+     <companyname>Akshaya Inc</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Big Data Analyst</jobposition>
+		<jobdescription>Design rich data visualizations and interactive tools and solutions to communicate complex ideas to customers and company leaders</jobdescription>
+		<salary>90000</salary>
+		<state>Arizona</state>
+	   
+	</Job>
+	
+	
+	
+		<Job category="Senior" id="33" >
+        
+     <companyname>vitaMedMD LLC</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>IT QA Analyst</jobposition>
+		<jobdescription>Contribute in story writing workshops and grooming sessions by providing QA perspective on existing or newly developed features. Create and execute quality test cases using Zephyr. Perform and ensure various kinds of testing are conducted including functional testing, system testing, integration testing, API testing and exploratory testing. </jobdescription>
+		<salary>90000</salary>
+		<state>Indiana</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="34" >
+        
+     <companyname>JP Morgan Chase</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Business Analytics Lead</jobposition>
+		<jobdescription>Prepare executive-level business and technology metrics, analytics and Reporting presentations in support of various forums. Build insightful, visually appealing dashboards backed by high quality metrics and analytics. </jobdescription>
+		<salary>78000</salary>
+		<state>Indiana</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="35" >
+        
+     <companyname>Byrne Software Technologies</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>SQL Database Administrator</jobposition>
+		<jobdescription>Creates and manages multiple databases and assists in capacity planning. Monitors, maintains database systems, and troubleshoots problems that may arise. Maintains data integrity and security (manage roles and permissions of database users). </jobdescription>
+		<salary>89000</salary>
+		<state>Nebraska</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="36" >
+        
+     <companyname>Forbes Technical Consulting LLC</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>SQL Database Administrator</jobposition>
+		<jobdescription>Design, develop, install, and support all Microsoft SQL databases to support Business Unit and Application. Execute recurring and timely SQL server maintenance to ensure consistent and reliable database environment.</jobdescription>
+		<salary>95000</salary>
+		<state>Minnesota</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="37" >
+        
+     <companyname>Intuit</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Staff Data Scientist - Analytics</jobposition>
+		<jobdescription>Partner with cross-functional stakeholders to better understand our users and create a single, accurate view of a customer across businesses to make decisions about how best to acquire/retain them, segment, identify high potential value, and proactively interact with them. </jobdescription>
+		<salary>76000</salary>
+		<state>Minnesota</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="38" >
+        
+     <companyname>Shure Incorporated</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Lead Data Engineer</jobposition>
+		<jobdescription>Supports and helps design, build, deploy and maintain data architectures and pipelines, including Enterprise Data Catalog. Handles Data Governance, Security, Compliance, and Quality by creating and implementing methods, techniques and processes for continuous improvement. </jobdescription>
+		<salary>90000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="39" >
+        
+     <companyname>McDonald's Corporate</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Sr. Data Technical Analyst</jobposition>
+		<jobdescription>The ideal candidate will have extensive experience working with customer master data, facilitating requirements-gathering sessions, documenting requirements, analyzing and evaluating possible solutions to meet requirements.</jobdescription>
+		<salary>85000</salary>
+		<state>Nebraska</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="40" >
+        
+     <companyname>Duquesne Light</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Quality Assurance Engineer I</jobposition>
+		<jobdescription>Reviews metrics from QA team members and escalating to Senior QA Engineers and QA Manager as appropriate. Ensure adequate bug triage with project team and prioritization of issues for resolution. Assures the viability, functionality and effectiveness of essential tools.</jobdescription>
+		<salary>100000</salary>
+		<state>Arizona</state>
+	   
+	</Job>
+	
+	
+	
+	<Job category="Director" id="41" >
+        
+     <companyname>HSBC</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Database Administrator</jobposition>
+		<jobdescription>Provide technical product oversight on Database functions including security vulnerability management, implementation standards, automation for installation, configuration and patch management, estate management, technical support and product roadmaps. Need Strong technical skills with a proven track record of delivering complex global projects on time and within budget.</jobdescription>
+		<salary>80000</salary>
+		<state>Arizona</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="42" >
+        
+     <companyname>NTT DATA Services</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>SQL Server Database Administrator</jobposition>
+		<jobdescription>Design and develop Logical and Physical Data Model using ER Studio Data Architect. Create DDL scripts to establish and maintain necessary databases. Write complex SQL queries against SQL Server and DB2 databases. Create DML scripts to manipulate data. </jobdescription>
+		<salary>90000</salary>
+		<state>Indiana</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="43" >
+        
+     <companyname>Luxury Brand Holding</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Director of Merchandising</jobposition>
+		<jobdescription>Develop merchandising strategies that are incorporated into the annual and seasonal business plans to achieve sales and profit plans for specific categories</jobdescription>
+		<salary>90000</salary>
+		<state>Indiana</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="44" >
+        
+     <companyname>United Fire Group</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Sr. Quality Assurance Analyst - DataHub</jobposition>
+		<jobdescription>Works with Data/Business Analyst to understand and clarify requirements to ensure adequate test coverage with appropriate test plans/cases. Assists in the creation of test analysis and reporting, defect trends, defect reoccurrence and overall system stability assessment. </jobdescription>
+		<salary>79000</salary>
+		<state>Minnesota</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="45" >
+        
+     <companyname>Wipro LTD</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Azure SQL Data Warehouse-Architect</jobposition>
+		<jobdescription>As an Architect you are responsible for providing technical leadership to small size/complexity/order-value projects. You are expected have depth of knowledge of specified technological area, which includes knowledge of applicable processes, methodologies, standards, products and frameworks.</jobdescription>
+		<salary>87000</salary>
+		<state>Nebraska</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="46" >
+        
+     <companyname>Knoldus Software Inc</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Senior Data Engineer</jobposition>
+		<jobdescription>Ability to architect AI systems
+		Experience in Distributed systems architecture</jobdescription>
+		<salary>79000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="47" >
+        
+     <companyname>TCF Bank</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Sr Business Intelligence Analyst</jobposition>
+		<jobdescription>Identify, analyze, and interpret trends or patterns in complex data. Transform analyses into concrete, actionable recommendations. Utilize data, statistical and quantitative analysis, explanatory and predictive modeling, and fact-based management to drive decision making. Develop a broad understanding of the banking businesses, products, market and emerging business priorities and capabilities and utilize data intelligence to support achievement of objectives. </jobdescription>
+		<salary>120000</salary>
+		<state>Indiana</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="48" >
+        
+     <companyname>United Airlines Inc</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Senior Analyst - Enterprise Data Analytics</jobposition>
+		<jobdescription>Execute projects that involve team members across all data analytics areas, vendors and external partners. Be accountable for deliverables by understanding and balancing the competing demands for project scope, time and quality.</jobdescription>
+		<salary>85000</salary>
+		<state>Arizona</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="49" >
+        
+     <companyname>Cognizance Technologies</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Data Modeler</jobposition>
+		<jobdescription>Understand and translate business needs into data models supporting long-term solutions.
+		Work with the Application Development team to implement data strategies, build data flows and develop conceptual data models.</jobdescription>
+		<salary>89000</salary>
+		<state>Minnesota</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="50" >
+        
+     <companyname>Red Wing Shoe Company</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Sr. Inventory Analyst</jobposition>
+		<jobdescription>Provide analytical support for implementation and maintenance of Lean Material Flow and Plan For Every Part (PFEP) methodology throughout company owned manufacturing sites. Provide leadership for the cycle count process including performing cycle counts as needed and performing root cause analysis and action planning. Lead the year-end physical inventory process. </jobdescription>
+		<salary>90000</salary>
+		<state>Nebraska</state>
+	   
+	</Job>
+	
+</JobCatalog>
+

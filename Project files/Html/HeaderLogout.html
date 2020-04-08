@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>HIRED</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/> 
+<script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-core.min.js"></script>
+<script src="https://cdn.anychart.com/releases/8.7.0/js/anychart-graph.min.js"></script>
+
+</head>
+<style>  
+  .carousel-inner > .item > img,  
+  .carousel-inner > .item > a > img {  
+      width: 80%;  
+      margin: auto;  
+  }  
+  .search{
+   width: 240px;
+   
+    font-size: 16px;
+    float:right;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+  }
+</style> 
+
+<body onload= "init()">
+<div id="container">
+<script type = "text/javascript" src="searchjavascript.js"></script>
+    <header>
+    	<div class = "width">
+    		<h1 style="color:#008080; font-size: 48px;">HIRED</h1>
+        	<h2 style="color:#00b3b3; font-size: 20px;">Best Way to get HIRED...</h2>
+    </div>
+		<div class="search" style="width:250px;">
+		<form name = "AutoCompleteServlet" action="AjaxAutoCompleteServlet">
+			<div name = "searchbar">
+			<span  class="glyphicon glyphicon-search"></span> 
+				<input type="text" name="searchid" class = "input" id= "searchid" placeholder="Search people" onkeyup="doCompletion()" />
+				<div id="auto-row">
+					<table border="0" id="complete-table" class="popupbox"></table>
+				</div>
+			</div>
+			
+		</form>
+		</div>
+    </header>
+    <nav>
+	<div class="inner-nav">
+    	<ul>
+        	<li class="#"><a href="./Home">Home</a></li>
+          <li class="#"><a href="./ViewApplication">View Application</a></li>
+          <li class="#"><a href="./AllJobs">Jobs</a></li>
+          <li class="#"><a href="./Network">Network Graph</a></li>
+          <li class="#" style="float: right;"><a href="./LogoutServlet">Logout</a></li>
+          <li class="#" style="float: right;"><a href="./Profile">Profile</a></li>
+          <li class="#" style="float: right;"><a href="#">Welcome</a></li>
+      </ul>
+    </nav>
+
+ 	<!--<img src="Html\images\image.jpg" alt=""  /> -->
+
+	
+	
+	
+	
+	
+	
+	

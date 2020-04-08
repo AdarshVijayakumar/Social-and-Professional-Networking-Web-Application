@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+ Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+                      http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+  version="3.0"
+  metadata-complete="true">
+
+  <display-name>Welcome to Tomcat</display-name>
+  <description>
+     Welcome to Tomcat
+  </description>
+  
+  
+  
+   <servlet>
+  <servlet-name>Home</servlet-name>
+  <servlet-class>Home</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Home</servlet-name>
+  <url-pattern>/Home</url-pattern>
+  </servlet-mapping>
+ <servlet>
+  <servlet-name>AddCart</servlet-name>
+  <servlet-class>AddCart</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>AddCart</servlet-name>
+  <url-pattern>/AddCart</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  <servlet-name>QuickApply</servlet-name>
+  <servlet-class>QuickApply</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>QuickApply</servlet-name>
+  <url-pattern>/QuickApply</url-pattern>
+  </servlet-mapping>
+
+
+<servlet>
+  <servlet-name>Login</servlet-name>
+  <servlet-class>Login</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Login</servlet-name>
+  <url-pattern>/Login</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+  <servlet-name>Acknowledge</servlet-name>
+  <servlet-class>Acknowledge</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Acknowledge</servlet-name>
+  <url-pattern>/Acknowledge</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  <servlet-name>LogoutServlet</servlet-name>
+  <servlet-class>LogoutServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>LogoutServlet</servlet-name>
+  <url-pattern>/LogoutServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>LoginParser</servlet-name>
+  <servlet-class>LoginParser</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>LoginParser</servlet-name>
+  <url-pattern>/LoginParser</url-pattern>
+  </servlet-mapping>
+ <servlet>
+  <servlet-name>RegistrationParser</servlet-name>
+  <servlet-class>RegistrationParser</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>RegistrationParser</servlet-name>
+  <url-pattern>/RegistrationParser</url-pattern>
+  </servlet-mapping>
+ <servlet>
+  <servlet-name>Registration</servlet-name>
+  <servlet-class>Registration</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Registration</servlet-name>
+  <url-pattern>/Registration</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  <servlet-name>UpdateProfile</servlet-name>
+  <servlet-class>UpdateProfile</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>UpdateProfile</servlet-name>
+  <url-pattern>/UpdateProfile</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>SelectJobUpdate</servlet-name>
+  <servlet-class>SelectJobUpdate</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>SelectJobUpdate</servlet-name>
+  <url-pattern>/SelectJobUpdate</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>Myhandler</servlet-name>
+  <servlet-class>Myhandler</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Myhandler</servlet-name>
+  <url-pattern>/Myhandler</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+  <servlet-name>Friends</servlet-name>
+  <servlet-class>Friends</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Friends</servlet-name>
+  <url-pattern>/Friends</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>Network</servlet-name>
+  <servlet-class>Network</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Network</servlet-name>
+  <url-pattern>/Network</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+  <servlet-name>Timeline</servlet-name>
+  <servlet-class>Timeline</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Timeline</servlet-name>
+  <url-pattern>/Timeline</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>TrendingTwitterTweets</servlet-name>
+  <servlet-class>TrendingTwitterTweets</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>TrendingTwitterTweets</servlet-name>
+  <url-pattern>/TrendingTwitterTweets</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+  <servlet-name>ViewItem</servlet-name>
+  <servlet-class>ViewItem</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ViewItem</servlet-name>
+  <url-pattern>/ViewItem</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>ReviewForm</servlet-name>
+  <servlet-class>ReviewForm</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ReviewForm</servlet-name>
+  <url-pattern>/ReviewForm</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>WriteReview</servlet-name>
+  <servlet-class>WriteReview</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>WriteReview</servlet-name>
+  <url-pattern>/WriteReview</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>ViewReview</servlet-name>
+  <servlet-class>ViewReview</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ViewReview</servlet-name>
+  <url-pattern>/ViewReview</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>UpdateJob</servlet-name>
+  <servlet-class>UpdateJob</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>UpdateJob</servlet-name>
+  <url-pattern>/UpdateJob</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>UpdateJobParser</servlet-name>
+  <servlet-class>UpdateJobParser</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>UpdateJobParser</servlet-name>
+  <url-pattern>/UpdateJobParser</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>DeleteJob</servlet-name>
+  <servlet-class>DeleteJob</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>DeleteJob</servlet-name>
+  <url-pattern>/DeleteJob</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>Utilities</servlet-name>
+  <servlet-class>Utilities</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Utilities</servlet-name>
+  <url-pattern>/Utilities</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>Follow</servlet-name>
+  <servlet-class>Follow</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Follow</servlet-name>
+  <url-pattern>/Follow</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>Followers</servlet-name>
+  <servlet-class>Followers</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Followers</servlet-name>
+  <url-pattern>/Followers</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>Following</servlet-name>
+  <servlet-class>Following</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Following</servlet-name>
+  <url-pattern>/Following</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>AllJobs</servlet-name>
+  <servlet-class>AllJobs</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>AllJobs</servlet-name>
+  <url-pattern>/AllJobs</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>Post</servlet-name>
+  <servlet-class>Post</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Post</servlet-name>
+  <url-pattern>/Post</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>WritePost</servlet-name>
+  <servlet-class>WritePost</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>WritePost</servlet-name>
+  <url-pattern>/WritePost</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>Unfollow</servlet-name>
+  <servlet-class>Unfollow</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Unfollow</servlet-name>
+  <url-pattern>/Unfollow</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>Blogs</servlet-name>
+  <servlet-class>Blogs</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Blogs</servlet-name>
+  <url-pattern>/Blogs</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+  <servlet-name>Google</servlet-name>
+  <servlet-class>Google</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Google</servlet-name>
+  <url-pattern>/Google</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+  <servlet-name>Happy</servlet-name>
+  <servlet-class>Happy</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Happy</servlet-name>
+  <url-pattern>/Happy</url-pattern>
+  </servlet-mapping>
+  
+
+  <servlet>
+  <servlet-name>sales_bar</servlet-name>
+  <servlet-class>sales_bar</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>sales_bar</servlet-name>
+  <url-pattern>/sales_bar</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+  <servlet-name>category_jobs</servlet-name>
+  <servlet-class>category_jobs</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>category_jobs</servlet-name>
+  <url-pattern>/category_jobs</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+  <servlet-name>Sales_date</servlet-name>
+  <servlet-class>Sales_date</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Sales_date</servlet-name>
+  <url-pattern>/Sales_date</url-pattern>
+  </servlet-mapping>
+
+    
+
+  <servlet>
+  <servlet-name>ResumeBlog</servlet-name>
+  <servlet-class>ResumeBlog</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ResumeBlog</servlet-name>
+  <url-pattern>/ResumeBlog</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>Process</servlet-name>
+  <servlet-class>Process</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Process</servlet-name>
+  <url-pattern>/Process</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+  <servlet-name>Profile</servlet-name>
+  <servlet-class>Profile</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Profile</servlet-name>
+  <url-pattern>/Profile</url-pattern>
+  </servlet-mapping>
+  
+     <servlet>
+  <servlet-name>Job</servlet-name>
+  <servlet-class>Job</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Job</servlet-name>
+  <url-pattern>/Job</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>Saxpaser</servlet-name>
+  <servlet-class>Saxpaser</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Saxpaser</servlet-name>
+  <url-pattern>/Saxpaser</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+  <servlet-name>Users</servlet-name>
+  <servlet-class>Users</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Users</servlet-name>
+  <url-pattern>/Users</url-pattern>
+  </servlet-mapping>
+  
+  
+      <servlet>
+  <servlet-name>Utilities</servlet-name>
+  <servlet-class>Utilities</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Utilities</servlet-name>
+  <url-pattern>/Utilities</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>Myhandler</servlet-name>
+  <servlet-class>Myhandler</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Myhandler</servlet-name>
+  <url-pattern>/Myhandler</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+  <servlet>
+  <servlet-name>ViewJob</servlet-name>
+  <servlet-class>ViewJob</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ViewJob</servlet-name>
+  <url-pattern>/ViewJob</url-pattern>
+  </servlet-mapping>
+  
+  
+    
+  <servlet>
+  <servlet-name>AddApply</servlet-name>
+  <servlet-class>AddApply</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>AddApply</servlet-name>
+  <url-pattern>/AddApply</url-pattern>
+  </servlet-mapping>
+  
+  
+      
+  <servlet>
+  <servlet-name>Cart</servlet-name>
+  <servlet-class>Cart</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Cart</servlet-name>
+  <url-pattern>/Cart</url-pattern>
+  </servlet-mapping>
+  
+        
+  <servlet>
+  <servlet-name>SubmitQuickApplication</servlet-name>
+  <servlet-class>SubmitQuickApplication</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>SubmitQuickApplication</servlet-name>
+  <url-pattern>/SubmitQuickApplication</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+  <servlet>
+  <servlet-name>Application</servlet-name>
+  <servlet-class>Application</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Application</servlet-name>
+  <url-pattern>/Application</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+  <servlet-name>ViewApplication</servlet-name>
+  <servlet-class>ViewApplication</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ViewApplication</servlet-name>
+  <url-pattern>/ViewApplication</url-pattern>
+  </servlet-mapping>
+  
+  
+    
+    <servlet>
+  <servlet-name>Form</servlet-name>
+  <servlet-class>Form</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Form</servlet-name>
+  <url-pattern>/Form</url-pattern>
+  </servlet-mapping>
+  
+      <servlet>
+  <servlet-name>CancalApplication</servlet-name>
+  <servlet-class>CancalApplication</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>CancalApplication</servlet-name>
+  <url-pattern>/CancalApplication</url-pattern>
+  </servlet-mapping>
+  
+        <servlet>
+  <servlet-name>AjaxUtilities</servlet-name>
+  <servlet-class>AjaxUtilities</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>AjaxUtilities</servlet-name>
+  <url-pattern>/AjaxUtilities</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+  <servlet-name>AjaxAutoCompleteServlet</servlet-name>
+  <servlet-class>AjaxAutoCompleteServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>AjaxAutoCompleteServlet</servlet-name>
+  <url-pattern>/AjaxAutoCompleteServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>ViewProfile</servlet-name>
+  <servlet-class>ViewProfile</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ViewProfile</servlet-name>
+  <url-pattern>/ViewProfile</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+  <servlet-name>CreateProfile</servlet-name>
+  <servlet-class>CreateProfile</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>CreateProfile</servlet-name>
+  <url-pattern>/CreateProfile</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+  <servlet-name>Soldproduct</servlet-name>
+  <servlet-class>Soldproduct</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Soldproduct</servlet-name>
+  <url-pattern>/Soldproduct</url-pattern>
+  </servlet-mapping>
+  
+  
+    
+  <servlet>
+  <servlet-name>Zipproduct</servlet-name>
+  <servlet-class>Zipproduct</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Zipproduct</servlet-name>
+  <url-pattern>/Zipproduct</url-pattern>
+  </servlet-mapping>
+  
+  
+    <servlet>
+  <servlet-name>AddJobPosting</servlet-name>
+  <servlet-class>AddJobPosting</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>AddJobPosting</servlet-name>
+  <url-pattern>/AddJobPosting</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+  <servlet-name>AddJobParser</servlet-name>
+  <servlet-class>AddJobParser</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>AddJobParser</servlet-name>
+  <url-pattern>/AddJobParser</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+  <servlet-name>JobAdd</servlet-name>
+  <servlet-class>JobAdd</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>JobAdd</servlet-name>
+  <url-pattern>/JobAdd</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+  <servlet>
+  <servlet-name>DeleteSelectJob</servlet-name>
+  <servlet-class>DeleteSelectJob</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>DeleteSelectJob</servlet-name>
+  <url-pattern>/DeleteSelectJob</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+    
+  <servlet>
+  <servlet-name>deleteproductHtml</servlet-name>
+  <servlet-class>deleteproductHtml</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>deleteproductHtml</servlet-name>
+  <url-pattern>/deleteproductHtml</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+  <servlet-name>deleteproduct</servlet-name>
+  <servlet-class>deleteproduct</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>deleteproduct</servlet-name>
+  <url-pattern>/deleteproduct</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+  <servlet-name>deleteproduct</servlet-name>
+  <servlet-class>deleteproduct</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>deleteproduct</servlet-name>
+  <url-pattern>/deleteproduct</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+  <servlet-name>SubmitFullApplication</servlet-name>
+  <servlet-class>SubmitFullApplication</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>SubmitFullApplication</servlet-name>
+  <url-pattern>/SubmitFullApplication</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+  <servlet-name>FullApply</servlet-name>
+  <servlet-class>FullApply</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>FullApply</servlet-name>
+  <url-pattern>/FullApply</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+  <servlet-name>View</servlet-name>
+  <servlet-class>View</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>View</servlet-name>
+  <url-pattern>/View</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+  <servlet-name>JobInventory</servlet-name>
+  <servlet-class>JobInventory</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>JobInventory</servlet-name>
+  <url-pattern>/JobInventory</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>Trending</servlet-name>
+  <servlet-class>Trending</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Trending</servlet-name>
+  <url-pattern>/Trending</url-pattern>
+  </servlet-mapping>
+
+
+  
+  
+  
+</web-app>
